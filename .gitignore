@@ -1,3 +1,9 @@
+node_modules/
+bower_components/
+*.log
+
+build/
+dist/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
